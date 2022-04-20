@@ -1,20 +1,23 @@
 {
 	"setting": {
-		"options": "Options",
-		"plugin": "Plugin",
-		"builtin-plugins": "Core plugins",
-		"plugin-options": "Plugin options",
-		"folder-path-example-placeholder": "Example: folder 1/folder 2",
-		"file-path-example-placeholder": "Example: folder/note",
-		"msg-restart-required": "Changing this option requires a restart to take effect.",
+		"options": "Opcions",
+		"plugin": "Connector",
+		"builtin-plugins": "Connectors base",
+		"plugin-options": "Opcions de connector",
+		"folder-path-example-placeholder": "Exemple: carpeta 1/carpeta 2",
+		"file-path-example-placeholder": "Exemple: carpeta/nota",
+		"msg-restart-required": "Els canvis en aquesta opció requereixen un reinici per poder-los aplicar.",
 		"editor": {
 			"name": "Editor",
 			"section-general": "General",
-			"section-behavior": "Behavior",
+			"section-behavior": "Comportament",
 			"section-display": "Display",
-			"option-spellcheck": "Spell check",
-			"option-spellcheck-description": "Turns on the spell checker. Currently only works for English (US).",
-			"spellcheck-languages": "Spellcheck languages",
+			"option-spellcheck": "Correcció Ortogràfica",
+			"option-spellcheck-description": "Activa la correció ortogràfica. Actualment només funciona amb English (US).",
+			"spellcheck-languages": "Idioma del corrector",
+			
+			
+			
 			"spellcheck-languages-description": "Choose the languages for the spellchecker to use.",
 			"spellcheck-languages-mac-description": "The native spellchecker will automatically detect the language being used for you on macOS.",
 			"spellcheck-dict": "Spellcheck dictionary",
